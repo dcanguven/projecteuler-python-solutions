@@ -11,7 +11,7 @@ The primary purpose of this repository is to:
 - Strengthen my problem-solving and algorithm development skills
 - Write clean, readable, and efficient Python code
 - Maintain a consistent coding habit
-- Share my thought process and methodology with peers and recruiters
+- Share my thought process, approach and methodology with peers and recruiters
 
 ## Structure
 
