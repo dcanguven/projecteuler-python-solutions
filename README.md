@@ -5,3 +5,4 @@
 	•	A problem a day (Project Euler, Python) to practice algorithms, optimize performance, and keep code clean.
 	•	Daily Euler in Python—algorithmic reasoning, micro-optimizations, production-quality style.
 	•	Project Euler, one per day in Python: from idea to optimized, maintainable solutions.
+ 
