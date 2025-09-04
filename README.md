@@ -1,1 +1,1 @@
-Daily Project Euler in Python — focused on algorithms and problem solving.
+Daily Project Euler in Python, focused on algorithms and problem solving.
