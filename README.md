@@ -1,24 +1,8 @@
-<div align="center">
-
 <h3>Daily Project Euler in Python</h3>
 
-<p>
-Focused on algorithms, problem solving, and mathematical thinking.
-</p>
+A collection of Project Euler solutions in Python, used for regular problem-solving practice and coding agent experiments.
 
-<p>
-For questions and original problems:<br>
-<a href="https://projecteuler.net/">https://projecteuler.net/</a>
-</p>
+The repository includes both my own solutions and solutions produced with different agent setups, including local agents, OpenAI agents, and Anthropic Claude. Project Euler provides a consistent environment for practicing algorithms and mathematical problem solving while comparing how different agents approach the same types of problems. Every solution follows the same format: problem screenshot, short bullet summary, code solution, result and execution time.
 
-<br>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Leonhard_Euler_2.jpg"
-     alt="Leonhard Euler"
-     width="260">
-
-<p>
-<em>Leonhard Euler (1707–1783)</em>
-</p>
-
-</div>
+All original problems are available at:
+https://projecteuler.net/
